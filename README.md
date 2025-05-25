@@ -39,7 +39,7 @@ I’m a data-driven Business Analyst with a passion for translating business cha
 ### 📊 [Power BI: Data Professionals Survey Dashboard](https://github.com/G0urv/powerbi-data-dashboard)
 An interactive dashboard analyzing global survey data from data professionals. It explores salary trends, job satisfaction, tool usage, and perceived career challenges using DAX and Power Query.
 
-### 📈 [Excel: Bike Sales Analysis Dashboard](https://github.com/G0urv/excel-sales-analysis)
+### 📈 [Excel: Bike Sales Analysis Dashboard](https://github.com/G0urv/Excel-sales-analysis)
 Built a dynamic Excel dashboard to study customer behavior and segment data by income, demographics, and region. Used pivot tables, charts, and conditional formatting.
 
 ---
