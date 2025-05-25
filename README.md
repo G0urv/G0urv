@@ -15,4 +15,4 @@ I'm a data enthusiast with a passion for creating insightful dashboards using Po
 
 ## 📫 Contact Me
 - Email: g.khokhar2002@gmail.com
-- LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/gourav-khokhar-finance/)
+- LinkedIn: [LinkedIN](https://www.linkedin.com/in/gourav-khokhar-finance/)
