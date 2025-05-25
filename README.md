@@ -1,16 +1,18 @@
-## Hi there 👋
+# Hi there, I'm Gourav Khokhar 👋
 
-<!--
-**G0urv/G0urv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a data enthusiast with a passion for creating insightful dashboards using Power BI and Excel.
 
-Here are some ideas to get you started:
+## 🔧 Skills
+- Power BI
+- Excel
+- Data Analysis
+- DAX
+- Power Query
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📊 Projects
+- [Power BI Dashboard](https://github.com/G0urv/PowerBi-data-dashboard)
+- [Excel Sales Analysis](https://github.com/G0urv/excel-sales-analysis)
+
+## 📫 Contact Me
+- Email: g.khokhar2002@gmail.com
+- LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/gourav-khokhar-finance/)
